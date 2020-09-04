@@ -1,2 +1,2 @@
 # simon-juego
-simon-juegokp.netlify.app
+https://simon-juegokp.netlify.app/
